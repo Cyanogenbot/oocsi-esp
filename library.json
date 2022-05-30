@@ -24,7 +24,7 @@
   "license": "MIT",
   "homepage": "https://oocsi.net/",
   "dependencies": {
-    "bblanchon/ArduinoJson": "~6.19.4"
+    "bblanchon/ArduinoJson": "6.18.0"
   },
   "exclude": [
     "temp"
